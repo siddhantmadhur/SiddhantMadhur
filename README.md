@@ -3,6 +3,8 @@
 [![Repos Badge](https://badges.pufler.dev/repos/SiddhantMadhur)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/SiddhantMadhur)](https://badges.pufler.dev)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddhantMadhur&show_icons=true&theme=dracula)
+
 ### I like to code and I love everything computers related, so here's a brief about it...
 
 ## Contact me

@@ -8,7 +8,7 @@
 ### I like to code and I love everything computers related, so here's a brief about it...
 
 ## Contact me
-- Email: siddhant@tecna.app
+- Email: siddhant.madhur@gmail.com
 - Instagram: [@siddhantmadhur](https://www.instagram.com/siddhantmadhur/)
 - Twitter: [@SiddhantMadhur](https://twitter.com/siddhantmadhur)
 

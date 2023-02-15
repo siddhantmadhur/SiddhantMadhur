@@ -22,7 +22,7 @@ Name: Asus Zephyrus G15
 Graphics Card: RTX 3060
 CPU: Ryzen 7 5800HS
 OS: Manjaro Linux
-Memory: 16GB
+Memory: 40GB
 ```
 
 ## My Tech Stacks

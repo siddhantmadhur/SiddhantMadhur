@@ -13,17 +13,9 @@
 
 ## Tid-bits:
 - Favorite Language: ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-- Favorite IDEs: <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+- Favorite IDEs:  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 - Strongest Language: <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-- Laptop: <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white"/>
-- Specs:
-```
-Name: Asus Zephyrus G15
-Graphics Card: RTX 3060
-CPU: Ryzen 7 5800HS
-OS: Manjaro Linux
-Memory: 40GB
-```
+
 
 ## My Tech Stacks
 ### Web-dev

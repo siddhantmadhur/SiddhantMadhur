@@ -9,10 +9,7 @@
 - Instagram: [@siddhantmadhur](https://www.instagram.com/siddhantmadhur/)
 - Twitter: [@SiddhantMadhur](https://twitter.com/siddhantmadhur)
 
-## Tidbits:
-- Favorite IDEs:  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-- Strongest Language: ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-- A recently tried tech stack that I've really enjoyed working with is the T3 stack (Next.js, Typescript, tRPC, Prisma, and NextAuth) as it's helped me bootstrap projects much much faster
+## Tidbits: A recently tried tech stack that I've really enjoyed working with is the T3 stack (Next.js, Typescript, tRPC, Prisma, and NextAuth) as it's helped me bootstrap projects much much faster
 
 
 ## My Tech Stacks

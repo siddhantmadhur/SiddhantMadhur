@@ -9,10 +9,11 @@
 - Instagram: [@siddhantmadhur](https://www.instagram.com/siddhantmadhur/)
 - Twitter: [@SiddhantMadhur](https://twitter.com/siddhantmadhur)
 
-## Tidbits: A recently tried tech stack that I've really enjoyed working with is the T3 stack (Next.js, Typescript, tRPC, Prisma, and NextAuth) as it's helped me bootstrap projects much much faster
 
 
 ## My Tech Stacks
+A recently tried tech stack that I've really enjoyed working with is the T3 stack (Next.js, Typescript, tRPC, Prisma, and NextAuth) as it's helped me bootstrap projects much much faster
+
 ### Web-dev
 #### Front-end:
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

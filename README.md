@@ -1,8 +1,6 @@
 # Hi, I'm @SiddhantMadhur
 
-## About Me
-
-### I like programming and love learning new things every day. My speciality is web dev, where I am comfortable using HTMX w/ Go, Next.Js, React or Astro as frameworks for dynamic and static sites. I am very familiar with Java and Python for problem-solving and using GoLang to create REST APIs. Currently I am pursuing a B.S. in Computer Science from the University of California, Santa Cruz
+I am a University of California, Santa Cruz student with a deep passion for Computer Science. In my free time, I like to develop many projects, including a Type Racer, a command-line interface tool to manage my projects, and a video streaming client for JellyFin. I am skilled at JavaScript, and Golang and am in the process of learning Rust for building Linux Daemons.
 
 
 ## Contact me
@@ -12,28 +10,3 @@
 
 
 
-## My Tech Stacks
-A recently tried tech stack that I've really enjoyed working with is the T3 stack (Next.js, Typescript, tRPC, Prisma, and NextAuth) as it's helped me bootstrap projects much faster. But for projects where I'd like to be more hands-on, for performance or cost-based reasons, I really enjoy using plain React with a Golang backend.
-
-### Fully featured websites
-
-#### HTMX
-- Plain HTML
-- GoLang for templating and data fetching
-
-**or**
-
-#### Next.js
-  - React
-  - Typescript
-  - tRPC
-  - ORM such as Prisma or Drizzle
-    
-**or**
-#### React
-  - Microservices built in Golang
-
-### Databases
-
-- PostgreSQL via Supabase
-- MySQL via Planetscale
